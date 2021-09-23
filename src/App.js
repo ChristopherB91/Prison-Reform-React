@@ -5,7 +5,7 @@ import Search from "./Jobsearch";
 import Homepage from "./Home";
 import Nav from "./Nav";
 import ContactUs from "./ContactForm";
-import Apartments from "./Apartmentsearch";
+import Apartments from "./Quotes";
 import { lightTheme, darkTheme, GlobalStyles } from "./DarkMode";
 import { ThemeProvider } from "styled-components";
 
@@ -48,7 +48,7 @@ function App() {
             <Route path="/" exact component={Homepage} />
             <Route path="/Home" exact component={Homepage} />
             <Route path="/Jobsearch" component={Search} />
-            <Route path="/Apartmentsearch" component={Apartments} />
+            <Route path="/Quotes" component={Apartments} />
             <Route path="/ContactForm" component={ContactUs} />
           </Switch>
           <div id="footer">

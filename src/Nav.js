@@ -11,7 +11,7 @@ function Nav() {
         <Link to="Jobsearch">
           <li>Jobsearch</li>
         </Link>
-        <Link to="Apartmentsearch">
+        <Link to="Quotes">
           <li>Inspirational Quotes</li>
         </Link>
         <Link to="ContactForm">

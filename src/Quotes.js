@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext} from "react"
+import React, { useState, useEffect } from "react"
 
 export default function Apartments() {
 
@@ -16,6 +16,7 @@ export default function Apartments() {
     return (
         <>
             <h1>Inspirational quotes</h1>
+            <p>This is here incase you feel like life just is not going your way. Sometimes a quote can lift you off the ground and help you out. </p>
             <p><strong>WARNING:</strong>Pressing the darkmode resets the quotes</p>
             <hr />
             <h2>{newdata?.text} -{newdata?.author}</h2>
