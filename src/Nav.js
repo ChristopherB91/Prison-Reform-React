@@ -1,26 +1,24 @@
-import './PR.css';
-import { Link } from 'react-router-dom'
+import "./PR.css";
+import { Link } from "react-router-dom";
+
 function Nav() {
   return (
-   <nav >
-      <ul className='nav-links' >
-        <Link to ='/about'>
-        <li>
-            About Us
-        </li>
+    <nav>
+      <ul className="nav-links">
+        <Link to="Home">
+          <li>Home</li>
         </Link>
-        <Link to='/contact'>
-        <li>
-           Contact Us
-        </li>
+        <Link to="Jobsearch">
+          <li>Jobsearch</li>
         </Link>
-        <Link to='Home'>
-        <li>
-           Home
-        </li>
+        <Link to="Apartmentsearch">
+          <li>Inspirational Quotes</li>
         </Link>
-    </ul>
-  </nav>
+        <Link to="ContactForm">
+          <li>ContactUs</li>
+        </Link>
+      </ul>
+    </nav>
   );
 }
 
