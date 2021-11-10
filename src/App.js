@@ -22,6 +22,8 @@ const reducer = (state, action) => {
       return state + 1
     case 'dislike':
       return state + 1
+    default:
+      return state
   }
 }
 
@@ -53,8 +55,8 @@ function App() {
           </Switch>
           <div id="footer">
             <footer>
-              If you have any questions or information you would like me to add
-              email me at <strong>chrisbrowne91@gmail.com</strong> or go to our{" "}
+              If you have any questions or information you would like me to add,
+              email me at <strong>chrisbrowne91@gmail.com</strong> or go to my {" "}
               <Link to="/ContactForm">ContactUs</Link> page.
             </footer>
           </div>

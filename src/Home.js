@@ -73,7 +73,7 @@ export default function Homepage() {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
-          <img src='https://static.wixstatic.com/media/eed588_c1333e81ce21443eb3db62be7909ff14~mv2.png/v1/fill/w_406,h_244,al_c,q_85,usm_0.66_1.00_0.01/eed588_c1333e81ce21443eb3db62be7909ff14~mv2.webp'></img>
+          <img src='https://static.wixstatic.com/media/eed588_c1333e81ce21443eb3db62be7909ff14~mv2.png/v1/fill/w_406,h_244,al_c,q_85,usm_0.66_1.00_0.01/eed588_c1333e81ce21443eb3db62be7909ff14~mv2.webp' alt='first72plus logo'></img>
         </div>
       </div>
     </div>

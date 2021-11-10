@@ -1,5 +1,4 @@
-import React, { useEffect, useState, useContext} from "react";
-import { ThemeContext } from "styled-components";
+import React, { useEffect, useState } from "react";
 
 export default function Search() {
 
