@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+Ideally reformed prisoners would be able to push past their old mistakes however this is not the case. Some want to change themselves and be better but are not given the opportunity. This is where my project comes in, I hope it will be the opportunity they did not get by pointing them in the direction of a job and reminding them that life is not over. https://github.com/ChristopherB91/Re-entry
+>>>>>>> 6a9fbe8f3b7c064a79b3ac2dc3ad4eaefb33eaae
